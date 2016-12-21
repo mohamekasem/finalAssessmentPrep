@@ -1,0 +1,11 @@
+body {
+background-color:gray;
+}
+h1{
+	
+	  font-family: Times;
+}
+#inputToDO{
+	 width :100px;
+	  height:50px;
+}
